@@ -1,0 +1,19 @@
+.shop-area {
+  
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.products-container {
+  flex-basis: 75%;
+  /* background: #f6f6f6; */
+  border-right: 1px solid #e7e6e1;
+  padding-right: 25px;
+  margin: 10px 0;
+}
+.place-area {
+  flex-basis: 20%;
+  margin: 10px 0;
+  /* background: #f4f9f9; */
+}

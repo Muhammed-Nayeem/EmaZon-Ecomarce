@@ -1,0 +1,36 @@
+.header-area {
+  background: #f6f6f6;
+  padding: 10px 0;
+}
+.logo-branding {
+  width: 250px;
+  margin: 0 auto;
+}
+.logo-branding img {
+  width: 100%;
+}
+.menu-area {
+  background: #252525;
+}
+.menu-area ul {
+  list-style: none;
+  line-height: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.menu-area ul li a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #ffff;
+  font-size: 16px;
+  display: block;
+  margin: 0 10px 0 0;
+  padding: 0 12px;
+  font-weight: bold;
+}
+.menu-area ul li a:hover {
+  background: #f6f6f6;
+  color: #252525;
+}
