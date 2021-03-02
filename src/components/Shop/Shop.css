@@ -15,5 +15,8 @@
 .place-area {
   flex-basis: 20%;
   margin: 10px 0;
-  /* background: #f4f9f9; */
+  background: #f6f6f6;
+  height: 350px;
+  padding: 30px 10px;
+  border-radius: 5px;
 }

@@ -1,0 +1,49 @@
+
+.cart-box h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+.cart-box p {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: 500;
+  color: #b12704;
+  border-bottom: 1px dashed #ebe9e9;
+  margin-bottom: 6px;
+  padding-bottom: 8px;
+}
+.cart-box small {
+  text-transform: capitalize;
+  font-size: 13px;
+  font-weight: 500;
+  color: #252525;
+  letter-spacing: 1px;
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.cart-box h4 {
+  text-transform: capitalize;
+  color: #b12704;
+  margin: 20px 0;
+  border-top: 1px dashed #ebe9e9;
+  padding-top: 6px;
+  display: flex;
+  justify-content: space-between;
+}
+.cart-box .review-btn {
+  background: #fab432;
+  color: #252525;
+  border: 1px solid #252525;
+  padding: 6px 60px;
+  border-radius: 5px;
+  text-transform: capitalize;
+  display: block;
+  margin: 15px auto;
+  cursor: pointer;
+  text-align: center;
+}
